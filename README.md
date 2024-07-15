@@ -37,6 +37,11 @@ Delete Options:
     Deletes a project only from My Projects.
 3. Back to Main Directory
     Allows you to exit the current menu and return to the main directory.
+
+Other than the CRUD Program, there's also an additional program which is
+Getting details about the Project
+Getting Guides and HInts on how to work on the project
+Get the URL to see the full finished code on the web
    
 Installation
 To use this program, you need to have Python installed on your system.
